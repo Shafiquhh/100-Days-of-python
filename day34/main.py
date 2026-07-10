@@ -14,7 +14,5 @@ quiz = QuizBrain(question_bank)
 
 quizui = QuizUi(quiz)
 
-# while quiz.still_has_questions():
-#     quiz.next_question()
 
 
